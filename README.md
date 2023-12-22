@@ -85,21 +85,19 @@ The source material for this project can be found under the folder called “Dat
 
 The report consists of the following pages: 
 
-- Overview 
-
-- Predicted Income 
+- Summary 
 
 - Products 
 
 - Customers 
 
-#### Overview 
+#### Summary 
 
-![Overview](https://github.com/cooljade007/MarketingAnalysisReportForNationalClothingCompany/assets/42302130/4acaa444-b708-4e46-a920-32874bb7fbfc)
+![Summary](https://github.com/Arsal-Raza/NationalClothChainAnalysisUsingPowerBI/blob/main/SecreenShots/Summary%20Page.png)
  
 #### Predicted Income Summary 
 
-![Predicted Income](https://github.com/cooljade007/MarketingAnalysisReportForNationalClothingCompany/assets/42302130/621d7c88-483d-4293-bbe6-15ef805093e4)
+![Predicted Income](https://github.com/Arsal-Raza/NationalClothChainAnalysisUsingPowerBI/blob/main/SecreenShots/Income_Analysis.png)
 
 - Using each state’s average Income and each state’s average Last 6 Months of Purchase, we used Linear Regression to predict an individual customer’s income. 
 
@@ -113,7 +111,7 @@ The report consists of the following pages:
 
 #### Product Summary 
 
-![Products](https://github.com/cooljade007/MarketingAnalysisReportForNationalClothingCompany/assets/42302130/d43ff446-698c-4ae9-b7ca-7ab2be82e5eb)
+![Products](https://github.com/Arsal-Raza/NationalClothChainAnalysisUsingPowerBI/blob/main/SecreenShots/Products.png)
 
 - There is a strong negative correlation of .69 between the Customer Rating and the Return Rate.  
 
@@ -129,7 +127,7 @@ The report consists of the following pages:
 
 #### Customer Summary 
 
-![Customer](https://github.com/cooljade007/MarketingAnalysisReportForNationalClothingCompany/assets/42302130/96b95946-4dcc-44ab-a593-a7cde82c4f98)
+![Customer](https://github.com/Arsal-Raza/NationalClothChainAnalysisUsingPowerBI/blob/main/SecreenShots/Customers.png)
 
 - We predict customer Jon Little to have the highest income of $556,790.49.  
 
