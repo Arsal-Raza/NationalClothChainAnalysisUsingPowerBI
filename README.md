@@ -1,4 +1,4 @@
-# Natinal Clothing Chain Analysis Using PowerBI
+# National Clothing Chain Analysis Using PowerBI
 
 ## Overview 
 
