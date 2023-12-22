@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This is Udacity’s third and final project under the Nanodegree Program Data Analysis and Visualization with Microsoft Power BI and focuses on advanced data analysis. (Completed on November 9, 2023) 
+This is Udacity’s third and final project under the Nanodegree Program Data Analysis and Visualization with Microsoft Power BI and focuses on advanced data analysis.
 
 For our third project, we have been tasked on helping a fictional online national clothing chain with creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. The goal is to advertise specific products to specific customers in specific locations, but they don’t know who to target. 
 
